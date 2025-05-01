@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/blog_project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cookie_session_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/database_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/firstDjango" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/form_demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/template_demo" vcs="Git" />
+  </component>
+</project>

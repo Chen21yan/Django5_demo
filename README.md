@@ -1,0 +1,1 @@
+里面有六个文件夹，除了blog_project，其他五个都是入门django学习基础知识的小小demo尝试，blog_project则是django尝试的一个博客小项目~
